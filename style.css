@@ -298,6 +298,12 @@ footer img {
 .links ul {
   list-style-type: none;
   line-height: 1.5rem;
+  color: #fff;
+}
+
+.link a:link,
+.link a:active {
+  color: #fff;
 }
 
 .socials {
