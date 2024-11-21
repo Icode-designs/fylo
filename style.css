@@ -48,7 +48,8 @@ nav ul {
 
 .link a {
   text-decoration: none;
-  color: var(--neutral-gray);
+  color: black;
+  font-weight: 500;
 }
 
 .header__content {
